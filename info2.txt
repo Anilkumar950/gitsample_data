@@ -1,0 +1,13 @@
+pwd
+git init
+git status
+mkdir anil
+touch data.txt
+notepad data.txt
+git add .
+git status
+git commit -m "first commited"
+git log
+git remote add origin paste-url
+git remote -v
+git push -u origin master
